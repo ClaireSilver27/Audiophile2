@@ -1,6 +1,7 @@
 
 # 3️⃣ **Audiophile Project README (`README.md`)**
 
+
 # 🎧 Audiophile Web App  
 
 ## 📖 Overview  
@@ -34,4 +35,4 @@ Audiophile is a responsive web application for audio equipment shopping, designe
 
 ---
 
-
+```markdown
