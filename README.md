@@ -1,9 +1,6 @@
 
----
-
 # 3️⃣ **Audiophile Project README (`README.md`)**
 
-```markdown
 # 🎧 Audiophile Web App  
 
 ## 📖 Overview  
